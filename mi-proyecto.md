@@ -8,11 +8,7 @@ Este es mi primer proyecto usando Git.
 ## Última actualización
 Editado desde GitHub web interface
 
-<<<<<<< HEAD
-## Información del proyecto
-Versión desarrollada en rama main
-=======
+
 
 ## Información del proyecto
-Versión desarrollada en rama feature
->>>>>>> feature/conflicto-simulado
+Versión combinada de ambas ramas
